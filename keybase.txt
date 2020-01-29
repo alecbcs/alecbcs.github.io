@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alecbcs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.alecbcs.com
+  * I am alecbcs (https://keybase.io/alecbcs) on keybase.
+  * I have a public key ASDAXbYgudWFhnsi3yrch0UWgpvgT_ndOdPxdWZSoCg-RAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c05db620b9d585867b22df2adc874516829be04ff9dd39d3f1756652a0283e440a",
+      "host": "keybase.io",
+      "kid": "0120c05db620b9d585867b22df2adc874516829be04ff9dd39d3f1756652a0283e440a",
+      "uid": "71847970a5497cc358dfcb3251ed7f19",
+      "username": "alecbcs"
+    },
+    "merkle_root": {
+      "ctime": 1580271252,
+      "hash": "70fd359b2f0bcaab93d4703ba44ce14c1f81c7be416d9061bc3ca809b66a00f003f65b7b270ce256301f50068bfd96ece996077e385bf7bcfecb4f0eff351437",
+      "hash_meta": "01b2e029e686e8788f5dde73a4e9449b033dc72f1c793a3fa21c84f29a612f57",
+      "seqno": 14402410
+    },
+    "service": {
+      "entropy": "ALr/mPYIMgyGIysSpYZmcOpC",
+      "hostname": "www.alecbcs.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1580271279,
+  "expire_in": 504576000,
+  "prev": "0a56baacefbcdc1824cb727d0c228e798bb5ccd6ce1523ff5b66a8af869095fd",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwF22ILnVhYZ7It8q3IdFFoKb4E/53TnT8XVmUqAoPkQKp3BheWxvYWTESpcCFMQgCla6rO+83Bgky3J9DCKOeYu1zNbOFSP/W2aor4aQlf3EIMsNCBA/sZ/wJe+BsZQYNJfqat6JthfveeFzcRwofXeVAgHCo3NpZ8RAj90qAQoc/qPih2pK+veNBsvREdpKSKOyL3LYDORw/b+/M4RYThvXYrVe9c1IWBZCyv7I7nV3iJxEQh0TxJ2bCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBQHCNva1qxQTxK4KJoZy1LHEjvxjpnZE7DBk/F+0yIeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alecbcs
+
+==================================================================
