@@ -82,7 +82,7 @@ ul {
 li {
     border-radius: 0%;
     border: none;
-    color: white;
+    color: black;
     margin: 8px;
     display: block;
     list-style: none;
@@ -97,9 +97,9 @@ li:hover {
 }
 a {
     text-align: justify;
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 5px;
-    color: white;
+    color: black;
     padding: 15px;
     padding-left: 30px;
     width: 70%;
