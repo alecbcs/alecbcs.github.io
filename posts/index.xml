@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Alec Scott</title>
+        <link>https://alecbcs.com/posts/</link>
+        <description>Recent content in Posts on Alec Scott</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 01 Mar 2020 14:53:56 -0700</lastBuildDate>
+        <atom:link href="https://alecbcs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Thinking About Personal Infastructure</title>
+            <link>https://alecbcs.com/posts/thinking-about-personal-infastructure/</link>
+            <pubDate>Sun, 01 Mar 2020 14:53:56 -0700</pubDate>
+            
+            <guid>https://alecbcs.com/posts/thinking-about-personal-infastructure/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

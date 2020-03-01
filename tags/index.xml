@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alec Scott</title>
-    <link>alecbcs.github.io/tags/</link>
+    <link>https://alecbcs.com/tags/</link>
     <description>Recent content in Tags on Alec Scott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 14:53:56 -0700</lastBuildDate>
     
-	<atom:link href="alecbcs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alecbcs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>infastrucute</title>
+      <link>https://alecbcs.com/tags/infastrucute/</link>
+      <pubDate>Sun, 01 Mar 2020 14:53:56 -0700</pubDate>
+      
+      <guid>https://alecbcs.com/tags/infastrucute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systems</title>
+      <link>https://alecbcs.com/tags/systems/</link>
+      <pubDate>Sun, 01 Mar 2020 14:53:56 -0700</pubDate>
+      
+      <guid>https://alecbcs.com/tags/systems/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
