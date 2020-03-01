@@ -1,0 +1,61 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "An impatient futurist, who loves Computer Science and Space."
+  keywords = "alecbcs, blog"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "light"
+
+  #Tagline
+  homeSubtitle = "An impatient futurist, who loves Computer Science and Space."
+
+  # Social Icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/alecbcs/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/alec-scott"
+
+  [[params.social]]
+    name = "keybase"
+    url  = "https://keybase.io/alecbcs"
+
+[languages]
+  [languages.en]
+    title = "Alec Scott"
+    subtitle = "An impatient futurist, who loves Computer Science and Space."
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "~/alecbcs"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "/blog"
+    url        = "/posts"
